@@ -38,6 +38,6 @@ Sempre aberto em colaborar com ideias inovadoras e disruptivas. Sinta-se à vont
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Arduino](https://img.shields.io/badge/-Arduino-C51A4A?style=flat-square&logo=Arduino)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=wilkermizael_private=true&show_icons=true&include_all_commits=true)
 
 

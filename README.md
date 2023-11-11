@@ -38,6 +38,6 @@ Sempre aberto em colaborar com ideias inovadoras e disruptivas. Sinta-se à vont
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Arduino](https://img.shields.io/badge/-Arduino-C51A4A?style=flat-square&logo=Arduino)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?wilkermizael=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilkermizael&show_icons=true&theme=radical)
 
 
